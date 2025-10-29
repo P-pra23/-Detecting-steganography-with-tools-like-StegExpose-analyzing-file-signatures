@@ -4,7 +4,7 @@ To detect hidden data using steganography detection tools like StegExpose and an
 ## Requirements:
 - **Operating System:** Linux / Windows
 - **Tools:**
-    - StegExpose (Java-based tool)
+    - StegExpose (Java-based tool) 
     - Hex Editor (e.g., xxd, HxD)
     - File command (Linux) or TrID (Windows)
 - **Sample files:**
